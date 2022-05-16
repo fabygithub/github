@@ -1,0 +1,4 @@
+git config --global user.name "fabygithub"
+git config --global user.email "fabiancornejomella90@gmail.com"
+
+
