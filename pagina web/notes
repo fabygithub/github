@@ -4,3 +4,11 @@ el sitio web nos da las instrucciones
 por ejemplo un cifrador de texto
 entender como se hace
 crear un repositorio
+crear una pagina en github pages
+el link seria despues del slash/
+por ejemplo este es el repositorio
+https://github.com/fabygithub/pagina1
+la pagina web seria
+pagina1.github.io
+si no se publica se puede revisar asi
+pagina1.github.io/index.html
